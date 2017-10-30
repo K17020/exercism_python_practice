@@ -1,2 +1,2 @@
 def hello(name=''):
-    print("Hello, World!")
+    return('Hello, World!')
